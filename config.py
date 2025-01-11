@@ -16,13 +16,13 @@ EVAL = list(map(int, getenv("EVAL", "7427691214 7045191057").split()))
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Ownergit")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Cyb3r_Panda")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "NexikoBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "RitsamMusicbot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "Nexiko")
+BOT_NAME = getenv("BOT_NAME" , "Rɪᴛsᴀᴍ✨ Mᴜsɪᴄ")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "MissYumikoo")
+ASSUSERNAME = getenv("ASSUSERNAME" , "RitsamAssistant")
 # ---------------------------------------------------------
 
 
@@ -37,10 +37,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002237336934))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002211802872))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7427691214))
+OWNER_ID = int(getenv("OWNER_ID", 5094080507))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -69,8 +69,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ALLTYPECC")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/gitwizardbypass")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/RitsamHub")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/RitsamChatroom")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
